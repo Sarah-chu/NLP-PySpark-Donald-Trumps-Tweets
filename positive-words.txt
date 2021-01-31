@@ -1425,6 +1425,7 @@ readily
 ready
 reaffirm
 reaffirmation
+real
 realistic
 realizable
 reasonable
@@ -1790,6 +1791,7 @@ tenderly
 terrific
 terrifically
 thank
+thanks
 thankful
 thinner
 thoughtful
@@ -2004,3 +2006,4 @@ zeal
 zenith
 zest
 zippy
+true
